@@ -196,12 +196,12 @@ footer .copyright p {
   transition: 0.5s;
 }
 .btn:hover {
-  box-shadow: 0px 5px 10px 0px #29d487;
-  background: #1e8a59;
+  box-shadow: 0px 5px 10px 0px #1abc9c;
+  background: #16a085;
   transition: 0.5s;
 }
-.signin:hover {
-  box-shadow: 0px 5px 10px 0px #29d487;
-  background: #1e8a59;
+header .navbar .nav-item .signin:hover {
+  box-shadow: 0px 5px 10px 0px #1abc9c;
+  background: #16a085;
   transition: 0.5s;
 }
